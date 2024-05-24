@@ -14,13 +14,19 @@ This tools used for scrapper for Sftp and Ftp protocol of Leakix.net . I hoping 
 - 4.To get the cookie you can using Cookie Editor or Burpsuite if you want oneshot copy
 
 
+```
+git clone https://github.com/0xWhoami35/VsCodeSFTTP-Scrapper.git
+python3 scrap.py
+```
+ 
+
 
 ## With Cookie
 ![image](https://github.com/0xWhoami35/VsCodeSFTTP-Scrapper/assets/107396843/2eb9d525-6102-4eb8-b759-af89816d2423)
 
 
 ## Without Cookie
-![image](https://github.com/0xWhoami35/VsCodeSFTTP-Scrapper/assets/107396843/fd77d4fd-52d2-4cc2-b872-14a8de8f150b)
+![image](https://github.com/0xWhoami35/VsCodeSFTTP-Scrapper/assets/107396843/c17d93bf-c7e2-4ada-8583-8965ea7b7034)
 
 
 ## Notes
