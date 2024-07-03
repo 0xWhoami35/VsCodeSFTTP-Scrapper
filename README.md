@@ -31,7 +31,7 @@ python3 scrap.py
 
 ## Notes
 
-If in responses.txt is blank you need stop the tool with CTRL + C and read the file again . Or the tools can't running again you need delete `last_page.txt` file .
+If you have cookies you have access page 1-50 if you dont have you're only have access 1-10 only !!
 
 
 ## About Me
